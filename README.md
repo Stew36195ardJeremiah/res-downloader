@@ -1,3 +1,7 @@
+# res-downloader (Personal Fork)
+
+> 📝 This is my personal fork of [putyy/res-downloader](https://github.com/putyy/res-downloader) for learning and personal use.
+
 <div align="center">
 
 <a href="https://github.com/putyy/res-downloader"><img src="build/appicon.png" width="120"/></a>
@@ -31,7 +35,7 @@
 - 📘 [在线文档](https://res.putyy.com/)
 - 💬 [加入交流群](https://www.putyy.com/app/admin/upload/img/20250418/6801d9554dc7.webp)
 - 🧩 [最新版](https://github.com/putyy/res-downloader/releases) ｜ [Mini版 使用默认浏览器展示UI](https://github.com/putyy/resd-mini) ｜ [Electron旧版 支持Win7](https://github.com/putyy/res-downloader/tree/old)
-  > *群满时可加微信 `AmorousWorld`，请备注“github”*
+  > *群满时可加微信 `AmorousWorld`，请备注"github"*
 
 ## 🧩 下载地址
 
@@ -50,7 +54,7 @@
 > 请按以下步骤操作以正确使用软件：
 
 1. 安装时务必 **允许安装证书文件** 并 **允许网络访问**
-2. 打开软件 → 首页左上角点击 **“启动代理”**
+2. 打开软件 → 首页左上角点击 **"启动代理"**
 3. 选择要获取的资源类型（默认全部）
 4. 在外部打开资源页面（如视频号、小程序、网页等）
 5. 返回软件首页，即可看到资源列表
