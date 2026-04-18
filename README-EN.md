@@ -59,4 +59,4 @@ Clean UI, easy to use, and supports a wide range of resource sniffing and downlo
 
 > **Personal note:** On macOS Sequoia (15+), you may need to re-trust the certificate in Keychain Access after each system update. Go to Keychain Access → find the `res-downloader` certificate → right-click → Get Info → Trust → set to "Always Trust".
 
-> **Personal note:** If captured resources are not showing up, try toggling the proxy off and back on, then reload the target page.
+> **Personal note:** If captured resources are not showing up, try toggling the proxy off and on again, or restarting the app. This seems to help on both macOS and Windows.
