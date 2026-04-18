@@ -57,12 +57,6 @@ Clean UI, easy to use, and supports a wide range of resource sniffing and downlo
 
 > **Personal note:** On macOS, if the proxy doesn't capture browser traffic, make sure to set your system proxy manually to `127.0.0.1:8899` in System Settings → Network → Proxies.
 
-> **Personal note:** On macOS Sequoia (15+), you may need to re-trust the certificate in Keychain Access after each reboot — search for "res-downloader" and set it to "Always Trust" under the certificate's trust settings.
+> **Personal note:** On macOS Sequoia (15+), you may need to re-trust the certificate in Keychain Access after each system update. Go to Keychain Access → find the `res-downloader` certificate → right-click → Get Info → Trust → set to "Always Trust".
 
----
-
-## ❓ FAQ
-
-### 📺 m3u8 Video Resources
-
-- Online Preview: [m3u8play](https://m3u8play.com/
+> **Personal note:** If captured resources are not showing up, try toggling the proxy off and back on, then reload the target page.
