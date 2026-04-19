@@ -57,6 +57,4 @@ Clean UI, easy to use, and supports a wide range of resource sniffing and downlo
 
 > **Personal note:** On macOS, if the proxy doesn't capture browser traffic, make sure to set your system proxy manually to `127.0.0.1:8899` in System Settings → Network → Proxies.
 
-> **Personal note:** On macOS Sequoia (15+), you may need to re-trust the certificate in Keychain Access after each system update. Go to Keychain Access → find the `res-downloader` certificate → right-click → Get Info → Trust → set to "Always Trust".
-
-> **Personal note:** If captured resources are not showing up, try toggling the proxy off and on again, or restarting the app. This seems to help on both macOS and Windows.
+> **Personal note:** On macOS Sequoia (15+), you may need to re-trust the certificate in Keychain Access after each reboot. Go to Keychain Access → System → find the `res-downloader` certificate → right-click → Get Info → Trust → set to "Always Trust".
